@@ -1,7 +1,7 @@
 <h3>Food Scanner </h3>
-<h3>The user may upload a snapshot of their food item, and the machine learning backend will determine what it is and how many nutrients it contains. In addition to the app, we made sure that individuals who couldn't buy it could still use the website. This will be accomplished through the use of HTML, CSS, JavaScript, and PHP on a different website. On the page, we've also endeavoured to present the calories of often consumed items. Last but not least, we included a feature that allows users to scan an image of a food item and obtain a recipe from our server that is balanced in terms of nutritional components.
-</h3>
-<h3>I worked on the website section, where I developed an attractive and catchy Home Page and integrated the ML model into a page for uploading a food image to retrieve the calories and nutritional quotient of that particular item. I also made the website responsive so that consumers can access and utilise our services on their mobile devices without having to download an app.</h3><br>
+The user may upload a snapshot of their food item, and the machine learning backend will determine what it is and how many nutrients it contains. In addition to the app, we made sure that individuals who couldn't buy it could still use the website. This will be accomplished through the use of HTML, CSS, JavaScript, and PHP on a different website. On the page, we've also endeavoured to present the calories of often consumed items. Last but not least, we included a feature that allows users to scan an image of a food item and obtain a recipe from our server that is balanced in terms of nutritional components.
+
+I worked on the website section, where I developed an attractive and catchy Home Page and integrated the ML model into a page for uploading a food image to retrieve the calories and nutritional quotient of that particular item. I also made the website responsive so that consumers can access and utilise our services on their mobile devices without having to download an app.<br>
 
 ![1](https://user-images.githubusercontent.com/66803026/180990877-03258ec4-df21-4fb6-9675-c16879626e08.png)
 <br>
